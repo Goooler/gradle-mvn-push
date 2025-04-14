@@ -4,6 +4,11 @@ gradle-mvn-push
 See this blog post for more context on this 'library': [http://chris.banes.me/2013/08/27/pushing-aars-to-maven-central/](http://chris.banes.me/2013/08/27/pushing-aars-to-maven-central/).
 
 
+## Deprecated
+
+This project is deprecated. Please migrate to [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) instead.
+
+
 ## Usage
 
 ### 1. Have a working Gradle build
