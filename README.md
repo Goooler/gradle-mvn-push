@@ -6,7 +6,8 @@ See this blog post for more context on this 'library': [http://chris.banes.me/20
 
 ## Deprecated
 
-This project is deprecated. Please migrate to [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) instead.
+> [!WARNING]
+> This project is deprecated. Please migrate to [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin) instead.
 
 
 ## Usage
